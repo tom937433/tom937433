@@ -47,15 +47,15 @@ I'm Berylth/Borayllee. However, that is just a pseudonym close to my actual name
 
 ## About me ✨
 ```yaml
-Name: Bryle
+Name: Michael
 Nicknames:
-  - BjXD
-  - Berylth
-  - Borayllee
-Current_Occupation: College Student
+  - Rj
+  - Jm
+  - Mj
+Occupation: IT
 Education:
-  Institution: De La Salle University (DLSU)
-  Specialization: Bachelor of Science in Computer Science Major in Network and Information Security (BSCS-NIS)
+  Institution: Univeristy
+  Specialization: Bachelor of Science in Computer Science
 Hobbies: ["Games", "Anime/Manga"]
 Fields_of_Interest:
   - Cybersecurity
